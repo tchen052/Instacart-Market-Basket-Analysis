@@ -1,6 +1,6 @@
 # Data Science for Social Good: Donorschoose.org
 
-<img src = 'https://cdn.donorschoose.net/images/logo/donorschoose_org_social_1200x630.png'>
+<img src = 'https://cdn.comparably.com/26216233/p/71400_profile_donorschoose-org.png'>
 
 ### Problem Statement
 Donorschoose.org is a US-based nonprofit crowdfunding platform whose mission is to help mitigate the impact of a vastly underfunded American school system through direct donations to individual classroom projects. Since its inception in 2000, DonorsChoose.org has raised over $685 million and supported three-quarters of all public schools in the U.S, making DonorsChoose.org the leading platform for supporting public education. 
