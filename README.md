@@ -12,9 +12,9 @@ However, teachers in the US still spend over a billion dollars funding their cla
 The hypothesis is that donors largely choose projects to fund based on some degree of personal investment. 
 #### Goals and success metrics
 The goals are to:
-    1. understand who donates
-    2. understand and rank the signals donors consider when choosing projects to fund
-    3. help Donorschoose.org extend its mission by matching donors to projects that interest them 
+    1. understand who donates <br>
+    2. understand and rank the signals donors consider when choosing projects to fund <br>
+    3. help Donorschoose.org extend its mission by matching donors to projects that interest them <br>
     4. predict and measure repeated giving by existing donors, enabling Donorschoose.org to build more targeted outreach campaigns
 #### Data Source 
 The data used for this study was obtained from Kaggle and supplied by Donorschoose.org. I will be using anonymized data on donor giving from the past five years.
