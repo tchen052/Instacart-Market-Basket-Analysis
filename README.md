@@ -16,6 +16,8 @@ The goals are to: <br>
 > 2. understand and rank the signals donors consider when choosing projects to fund <br>
 > 3. help Donorschoose.org extend its mission by matching donors to projects that interest them <br>
 > 4. predict and measure repeated giving by existing donors, enabling Donorschoose.org to build more targeted outreach campaigns
+#### Limitations 
+Although we are looking into trends over all forms of giving, doing a separate analysis on existing repeat donors could provide a lot of insight. A potential limitation is that our sample of repeat donors is significantly smaller than that of single donors. 
 #### Data Source 
 The data used for this study was obtained from Kaggle and supplied by Donorschoose.org. I will be using anonymized data on donor giving from the past five years.
 
