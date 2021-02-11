@@ -11,7 +11,7 @@ However, teachers in the US still spend over a billion dollars funding their cla
 #### Hypothesis/assumptions
 The hypothesis is that donors largely choose projects to fund based on some degree of personal investment. 
 #### Goals and success metrics
-The goals are to:
+The goals are to: <br>
     1. understand who donates <br>
     2. understand and rank the signals donors consider when choosing projects to fund <br>
     3. help Donorschoose.org extend its mission by matching donors to projects that interest them <br>
