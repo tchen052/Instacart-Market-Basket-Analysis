@@ -1,6 +1,6 @@
-# Data Science for Social Good: Donorschoose.org
+# Instacart Market Basket Analysis
 
-<img src = 'https://cdn.comparably.com/26216233/p/71400_profile_donorschoose-org.png'>
+<img src = 'https://d2guulkeunn7d8.cloudfront.net/assets/beetstrap/brand/logo@3x-c01b12eeb889d8665611740b281d76fa1cf88d06bcbd8a50dbcae6baecdbe9da.png'>
 
 ### Problem Statement
 Donorschoose.org is a US-based nonprofit crowdfunding platform whose mission is to help mitigate the impact of a vastly underfunded American school system through direct donations to individual classroom projects. Since its inception in 2000, DonorsChoose.org has raised over $685 million and supported three-quarters of all public schools in the U.S, making DonorsChoose.org the leading platform for supporting public education. 
