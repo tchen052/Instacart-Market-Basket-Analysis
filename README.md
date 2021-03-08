@@ -9,13 +9,13 @@ The applications of this project are abundant. Apart from improving targeting on
 
 #### Hypothesis/assumptions
 The hypothesis is that previous buying behavior predicts future buying behavior. 
-Product purchasing habits are a product of ___
+Product purchasing habits are mainly a product of habit, indicated by patterns of re-purchasing everyday groceries, or a set cadence of order-placing.   
 
 #### Goals and success metrics
 The goals are to: <br>
 > 1. characterize repeat users of Instacart <br>
 > 2. segment and characterize purchase behaviors based on time/day <br>
-> 3. segment and understand the kinds of products that are purchased <br>
+> 3. segment and understand the kinds of products that are purchased and re-ordered<br>
 > 4. predict and measure repeated purchase by existing users, enabling Donorschoose.org to build more targeted recommendations
 #### Limitations 
 We are currently unable to characterize Instacart users as all personal user data are anonymized, and the data includes orders across many different retailers. The most we can uncover using the given dataset is segmented by time/date of purchase. The dataset provided represents a subset of Instacart's production data, which may be heavily biased. One example of this bias is that orders per customer are limited to 4-100 orders per customer. 
